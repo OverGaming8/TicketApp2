@@ -1,0 +1,9 @@
+U:\Programok\TicketAppV2\TicketAppV2\obj\Debug\TicketAppV2.csprojAssemblyReference.cache
+U:\Programok\TicketAppV2\TicketAppV2\obj\Debug\TicketAppV2.Form1.resources
+U:\Programok\TicketAppV2\TicketAppV2\obj\Debug\TicketAppV2.csproj.GenerateResource.cache
+U:\Programok\TicketAppV2\TicketAppV2\bin\Debug\TicketApp.exe.config
+U:\Programok\TicketAppV2\TicketAppV2\bin\Debug\TicketApp.exe
+U:\Programok\TicketAppV2\TicketAppV2\bin\Debug\TicketApp.pdb
+U:\Programok\TicketAppV2\TicketAppV2\obj\Debug\TicketApp.Properties.Resources.resources
+U:\Programok\TicketAppV2\TicketAppV2\obj\Debug\TicketApp.exe
+U:\Programok\TicketAppV2\TicketAppV2\obj\Debug\TicketApp.pdb
